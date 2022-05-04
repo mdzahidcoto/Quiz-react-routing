@@ -1,0 +1,13 @@
+.result-img {
+    padding: 40px;
+}
+.half-div div{
+    height: 600px;
+}
+.inner-half-div h2 {
+    text-align: center;
+    color: #ffffff;
+    padding: 35%;
+    align-items: center;
+    justify-content: center;
+}

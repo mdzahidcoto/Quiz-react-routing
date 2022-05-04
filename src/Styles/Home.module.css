@@ -1,0 +1,29 @@
+.navDiv {
+    /* float: right; */
+    width: 100%;
+    padding: 20px 5px;
+    margin: 5px 0px 10px 0px;
+    background-color: #4a4646;
+}
+.navBar li {
+    padding: 10px 20px;
+    margin: 5px 10px;
+    font-size: 1.3rem;
+    display: inline;
+    justify-content: center;
+}
+.navBar a {
+    text-decoration: none;
+    color: white;
+}
+.navBar a:hover {
+    font-weight: bold;
+    background-color: #353434;
+}
+.right {
+    float: right;
+    padding: 10px 15px;
+    margin: 2px 8px;
+    font-weight: 500;
+    background-color: gray;
+}
