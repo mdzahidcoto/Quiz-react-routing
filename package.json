@@ -9,6 +9,7 @@
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
     "@testing-library/user-event": "^13.5.0",
+    "firebase": "^9.7.0",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
@@ -38,5 +39,21 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdzahidcoto/Quiz-react-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdzahidcoto/Quiz-react-routing/issues"
+  },
+  "homepage": "https://github.com/mdzahidcoto/Quiz-react-routing#readme"
 }
